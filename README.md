@@ -1,0 +1,1 @@
+# doge-outo-aws
